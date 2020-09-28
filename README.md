@@ -1,8 +1,8 @@
 # HCI Assignment 1
 
 ## Team K
-1. Nehemiah Austen Pison (1313619021)
-2. Ikhsan Agil Kusuma (1313619005)
+1. Nehemiah Austen Pison    (1313619021)
+2. Ikhsan Agil Kusuma       (1313619005)
 3. Muhammad Faris Al Husain (1313619020)
 
 ## Task 1
